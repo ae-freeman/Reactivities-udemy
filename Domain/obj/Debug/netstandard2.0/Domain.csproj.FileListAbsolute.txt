@@ -1,0 +1,8 @@
+/Users/Annie/Desktop/C-sharp/React c sharp course/Course Assets/SourceCode/Section4/Reactivities/Domain/bin/Debug/netstandard2.0/Domain.deps.json
+/Users/Annie/Desktop/C-sharp/React c sharp course/Course Assets/SourceCode/Section4/Reactivities/Domain/bin/Debug/netstandard2.0/Domain.dll
+/Users/Annie/Desktop/C-sharp/React c sharp course/Course Assets/SourceCode/Section4/Reactivities/Domain/bin/Debug/netstandard2.0/Domain.pdb
+/Users/Annie/Desktop/C-sharp/React c sharp course/Course Assets/SourceCode/Section4/Reactivities/Domain/obj/Debug/netstandard2.0/Domain.csprojAssemblyReference.cache
+/Users/Annie/Desktop/C-sharp/React c sharp course/Course Assets/SourceCode/Section4/Reactivities/Domain/obj/Debug/netstandard2.0/Domain.AssemblyInfoInputs.cache
+/Users/Annie/Desktop/C-sharp/React c sharp course/Course Assets/SourceCode/Section4/Reactivities/Domain/obj/Debug/netstandard2.0/Domain.AssemblyInfo.cs
+/Users/Annie/Desktop/C-sharp/React c sharp course/Course Assets/SourceCode/Section4/Reactivities/Domain/obj/Debug/netstandard2.0/Domain.dll
+/Users/Annie/Desktop/C-sharp/React c sharp course/Course Assets/SourceCode/Section4/Reactivities/Domain/obj/Debug/netstandard2.0/Domain.pdb
