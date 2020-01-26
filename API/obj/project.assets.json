@@ -12606,11 +12606,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Annie/Desktop/C-sharp/React c sharp course/Course Assets/SourceCode/Section4/Reactivities/API/API.csproj",
+      "projectUniqueName": "/Users/Annie/Desktop/Reactivities-annie/API/API.csproj",
       "projectName": "API",
-      "projectPath": "/Users/Annie/Desktop/C-sharp/React c sharp course/Course Assets/SourceCode/Section4/Reactivities/API/API.csproj",
+      "projectPath": "/Users/Annie/Desktop/Reactivities-annie/API/API.csproj",
       "packagesPath": "/Users/Annie/.nuget/packages/",
-      "outputPath": "/Users/Annie/Desktop/C-sharp/React c sharp course/Course Assets/SourceCode/Section4/Reactivities/API/obj/",
+      "outputPath": "/Users/Annie/Desktop/Reactivities-annie/API/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -12627,8 +12627,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "/Users/Annie/Desktop/C-sharp/React c sharp course/Course Assets/SourceCode/Section4/Reactivities/Application/Application.csproj": {
-              "projectPath": "/Users/Annie/Desktop/C-sharp/React c sharp course/Course Assets/SourceCode/Section4/Reactivities/Application/Application.csproj"
+            "/Users/Annie/Desktop/Reactivities-annie/Application/Application.csproj": {
+              "projectPath": "/Users/Annie/Desktop/Reactivities-annie/Application/Application.csproj"
             }
           }
         }

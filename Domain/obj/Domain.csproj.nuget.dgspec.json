@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/Annie/Desktop/C-sharp/React c sharp course/Course Assets/SourceCode/Section4/Reactivities/Domain/Domain.csproj": {}
+    "/Users/Annie/Desktop/Reactivities-annie/Domain/Domain.csproj": {}
   },
   "projects": {
-    "/Users/Annie/Desktop/C-sharp/React c sharp course/Course Assets/SourceCode/Section4/Reactivities/Domain/Domain.csproj": {
+    "/Users/Annie/Desktop/Reactivities-annie/Domain/Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/Annie/Desktop/C-sharp/React c sharp course/Course Assets/SourceCode/Section4/Reactivities/Domain/Domain.csproj",
+        "projectUniqueName": "/Users/Annie/Desktop/Reactivities-annie/Domain/Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "/Users/Annie/Desktop/C-sharp/React c sharp course/Course Assets/SourceCode/Section4/Reactivities/Domain/Domain.csproj",
+        "projectPath": "/Users/Annie/Desktop/Reactivities-annie/Domain/Domain.csproj",
         "packagesPath": "/Users/Annie/.nuget/packages/",
-        "outputPath": "/Users/Annie/Desktop/C-sharp/React c sharp course/Course Assets/SourceCode/Section4/Reactivities/Domain/obj/",
+        "outputPath": "/Users/Annie/Desktop/Reactivities-annie/Domain/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

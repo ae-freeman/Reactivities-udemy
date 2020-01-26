@@ -9,3 +9,14 @@
 /Users/Annie/Desktop/C-sharp/React c sharp course/Course Assets/SourceCode/Section4/Reactivities/Persistence/obj/Debug/netstandard2.0/Persistence.csproj.CopyComplete
 /Users/Annie/Desktop/C-sharp/React c sharp course/Course Assets/SourceCode/Section4/Reactivities/Persistence/obj/Debug/netstandard2.0/Persistence.dll
 /Users/Annie/Desktop/C-sharp/React c sharp course/Course Assets/SourceCode/Section4/Reactivities/Persistence/obj/Debug/netstandard2.0/Persistence.pdb
+/Users/Annie/Desktop/Reactivities-annie/Persistence/bin/Debug/netstandard2.0/Persistence.deps.json
+/Users/Annie/Desktop/Reactivities-annie/Persistence/bin/Debug/netstandard2.0/Persistence.dll
+/Users/Annie/Desktop/Reactivities-annie/Persistence/bin/Debug/netstandard2.0/Persistence.pdb
+/Users/Annie/Desktop/Reactivities-annie/Persistence/bin/Debug/netstandard2.0/Domain.dll
+/Users/Annie/Desktop/Reactivities-annie/Persistence/bin/Debug/netstandard2.0/Domain.pdb
+/Users/Annie/Desktop/Reactivities-annie/Persistence/obj/Debug/netstandard2.0/Persistence.csprojAssemblyReference.cache
+/Users/Annie/Desktop/Reactivities-annie/Persistence/obj/Debug/netstandard2.0/Persistence.AssemblyInfoInputs.cache
+/Users/Annie/Desktop/Reactivities-annie/Persistence/obj/Debug/netstandard2.0/Persistence.AssemblyInfo.cs
+/Users/Annie/Desktop/Reactivities-annie/Persistence/obj/Debug/netstandard2.0/Persistence.csproj.CopyComplete
+/Users/Annie/Desktop/Reactivities-annie/Persistence/obj/Debug/netstandard2.0/Persistence.dll
+/Users/Annie/Desktop/Reactivities-annie/Persistence/obj/Debug/netstandard2.0/Persistence.pdb
