@@ -1,0 +1,13 @@
+/Users/Annie/Desktop/Reactivities-annie/Application/bin/Debug/netcoreapp3.0/Application.deps.json
+/Users/Annie/Desktop/Reactivities-annie/Application/bin/Debug/netcoreapp3.0/Application.dll
+/Users/Annie/Desktop/Reactivities-annie/Application/bin/Debug/netcoreapp3.0/Application.pdb
+/Users/Annie/Desktop/Reactivities-annie/Application/bin/Debug/netcoreapp3.0/Domain.dll
+/Users/Annie/Desktop/Reactivities-annie/Application/bin/Debug/netcoreapp3.0/Persistence.dll
+/Users/Annie/Desktop/Reactivities-annie/Application/bin/Debug/netcoreapp3.0/Domain.pdb
+/Users/Annie/Desktop/Reactivities-annie/Application/bin/Debug/netcoreapp3.0/Persistence.pdb
+/Users/Annie/Desktop/Reactivities-annie/Application/obj/Debug/netcoreapp3.0/Application.csprojAssemblyReference.cache
+/Users/Annie/Desktop/Reactivities-annie/Application/obj/Debug/netcoreapp3.0/Application.AssemblyInfoInputs.cache
+/Users/Annie/Desktop/Reactivities-annie/Application/obj/Debug/netcoreapp3.0/Application.AssemblyInfo.cs
+/Users/Annie/Desktop/Reactivities-annie/Application/obj/Debug/netcoreapp3.0/Application.csproj.CopyComplete
+/Users/Annie/Desktop/Reactivities-annie/Application/obj/Debug/netcoreapp3.0/Application.dll
+/Users/Annie/Desktop/Reactivities-annie/Application/obj/Debug/netcoreapp3.0/Application.pdb

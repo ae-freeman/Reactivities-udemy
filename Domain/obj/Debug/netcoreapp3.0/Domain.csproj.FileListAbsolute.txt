@@ -1,0 +1,8 @@
+/Users/Annie/Desktop/Reactivities-annie/Domain/bin/Debug/netcoreapp3.0/Domain.deps.json
+/Users/Annie/Desktop/Reactivities-annie/Domain/bin/Debug/netcoreapp3.0/Domain.dll
+/Users/Annie/Desktop/Reactivities-annie/Domain/bin/Debug/netcoreapp3.0/Domain.pdb
+/Users/Annie/Desktop/Reactivities-annie/Domain/obj/Debug/netcoreapp3.0/Domain.csprojAssemblyReference.cache
+/Users/Annie/Desktop/Reactivities-annie/Domain/obj/Debug/netcoreapp3.0/Domain.AssemblyInfoInputs.cache
+/Users/Annie/Desktop/Reactivities-annie/Domain/obj/Debug/netcoreapp3.0/Domain.AssemblyInfo.cs
+/Users/Annie/Desktop/Reactivities-annie/Domain/obj/Debug/netcoreapp3.0/Domain.dll
+/Users/Annie/Desktop/Reactivities-annie/Domain/obj/Debug/netcoreapp3.0/Domain.pdb

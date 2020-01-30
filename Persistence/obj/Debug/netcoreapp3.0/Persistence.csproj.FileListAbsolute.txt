@@ -1,0 +1,11 @@
+/Users/Annie/Desktop/Reactivities-annie/Persistence/bin/Debug/netcoreapp3.0/Persistence.deps.json
+/Users/Annie/Desktop/Reactivities-annie/Persistence/bin/Debug/netcoreapp3.0/Persistence.dll
+/Users/Annie/Desktop/Reactivities-annie/Persistence/bin/Debug/netcoreapp3.0/Persistence.pdb
+/Users/Annie/Desktop/Reactivities-annie/Persistence/bin/Debug/netcoreapp3.0/Domain.dll
+/Users/Annie/Desktop/Reactivities-annie/Persistence/bin/Debug/netcoreapp3.0/Domain.pdb
+/Users/Annie/Desktop/Reactivities-annie/Persistence/obj/Debug/netcoreapp3.0/Persistence.csprojAssemblyReference.cache
+/Users/Annie/Desktop/Reactivities-annie/Persistence/obj/Debug/netcoreapp3.0/Persistence.AssemblyInfoInputs.cache
+/Users/Annie/Desktop/Reactivities-annie/Persistence/obj/Debug/netcoreapp3.0/Persistence.AssemblyInfo.cs
+/Users/Annie/Desktop/Reactivities-annie/Persistence/obj/Debug/netcoreapp3.0/Persistence.csproj.CopyComplete
+/Users/Annie/Desktop/Reactivities-annie/Persistence/obj/Debug/netcoreapp3.0/Persistence.dll
+/Users/Annie/Desktop/Reactivities-annie/Persistence/obj/Debug/netcoreapp3.0/Persistence.pdb
