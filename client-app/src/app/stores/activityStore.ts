@@ -13,6 +13,7 @@ export default class ActivityStore {
     this.rootStore = rootStore;
   }
 
+  // This is the state?
   @observable activityRegistry = new Map();
   @observable activity: IActivity | null = null;
   @observable loadingInitial = false;
@@ -20,6 +21,7 @@ export default class ActivityStore {
   @observable target = '';
   @observable loading = false;
 
+  // Use a computed method when you already have the data, and are just going to do something with it
   @computed get activitiesByDate() {
     return this.groupActivitiesByDate(
       Array.from(this.activityRegistry.values())
@@ -47,7 +49,8 @@ export default class ActivityStore {
   @action loadActivities = async () => {
     this.loadingInitial = true;
     try {
-      const activities = await agent.Activities.list();
+        //Here is the api call: use from agent file, the activities object, the list property
+      const activities = await agent.Activities.list(); 
       runInAction('loading activities', () => {
         activities.forEach(activity => {
           setActivityProps(activity, this.rootStore.userStore.user!);

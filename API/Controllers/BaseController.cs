@@ -2,6 +2,9 @@ using MediatR;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.DependencyInjection;
 
+// Set up/initialise MediatR
+// MediatR allows app to send and receive messages
+
 namespace API.Controllers
 {
 

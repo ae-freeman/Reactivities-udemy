@@ -7,11 +7,16 @@ using MediatR;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
+// This file makes the requests to the database to make changes.
+// It receives the incoming requests from the client side
+// Derives from the BaseController, which initialises MediatR
+
 namespace API.Controllers
 {
     public class ActivitiesController : BaseController
     {
-        [HttpGet]
+        // Receives the commands from the client app (the same functions as in the ActivityStore)
+        [HttpGet] // Put the type of request above
         public async Task<ActionResult<List<ActivityDto>>> List()
         {
             return await Mediator.Send(new List.Query());
